@@ -5,10 +5,10 @@
 
 <div align="left">
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=yejinlee99&utm_content=farm">
-    <img src="https://render.gitanimals.org/farms/yejinlee99" style="height:200px;" />
+    <img src="https://render.gitanimals.org/farms/yejinlee99" style="height:200px; width:300px;" />
   </a>
   <a href="https://github.com/yejinlee99/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=yejinlee99&show_icons=true&count_private=true&hide_border=true&title_color=f7f5f5&text_color=f7f5f5&icon_color=ffffff&bg_color=30,feac5e80,c779d080,4bc0c880" style="height:200px;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=yejinlee99&show_icons=true&count_private=true&hide_border=true&title_color=f7f5f5&text_color=f7f5f5&icon_color=ffffff&bg_color=30,feac5e80,c779d080,4bc0c880" style="height:200px; width:365px;" />
   </a>
 </div>
 
