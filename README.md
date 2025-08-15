@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=20&section=header&text=YEJIN's%20GITHUB&fontSize=50&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&section=header&text=YEJIN's%20GITHUB&fontSize=50&animation=twinkling&fontAlign=60&fontAlignY=36)
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=yejinlee99&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/yejinlee99"
