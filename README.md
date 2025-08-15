@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=blur&color=gradient&customColorList=10&height=20&section=header&text=YEJIN's%20GITHUB&fontSize=50&animation=twinkling)
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=yejinlee99&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/yejinlee99"
