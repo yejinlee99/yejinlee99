@@ -8,22 +8,9 @@
     <img src="https://render.gitanimals.org/farms/yejinlee99" style="height:200px;" />
   </a>
   <a href="https://github.com/yejinlee99/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=yejinlee99&show_icons=true" style="height:200px;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=yejinlee99&show_icons=true&count_private=true&hide_border=true&title_color=f7f5f5&text_color=f7f5f5&icon_color=ffffff&bg_color=30,feac5e80,c779d080,4bc0c880" style="height:200px;" />
   </a>
 </div>
-
-<a href="https://github.com/yejinlee99/github-readme-stats">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=yejinlee99&show_icons=true
-    &title_color=feac5e
-    &text_color=f7f5f5
-    &icon_color=c779d0
-    &bg_color=30,fec89a,d8aefc,88e2e2
-    &hide_border=true
-    " 
-    style="height:200px;" 
-  />
-</a>
 
 ## 🧸 **Introduction**
 
@@ -87,9 +74,8 @@ I'm a full-stack developer passionate about **Data Analysis** and **Web Developm
   <img src="https://img.shields.io/badge/javascript-4bc0c8?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yejinlee99&layout=compact)](https://github.com/yejinlee99/github-readme-stats)
-  
+
 
 
 ## 📫 Contact
@@ -97,12 +83,11 @@ I'm a full-stack developer passionate about **Data Analysis** and **Web Developm
 <a href="mailto:leeyejin991215@gmail.com">
   <img src="https://img.shields.io/badge/Email-feccae?style=for-the-badge&logo=gmail&logoColor=f7f5f5" />
 </a>
-<a href="https://www.linkedin.com/in/yejinlee99">
-  <img src="https://img.shields.io/badge/LinkedIn-e8c8ff?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.youtube.com/@jin_ye.l">
+  <img src="https://img.shields.io/badge/YouTube%20Projects-e8c8ff?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 <a href="https://github.com/yejinlee99">
   <img src="https://img.shields.io/badge/GitHub-b3f0f0?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
 
 
