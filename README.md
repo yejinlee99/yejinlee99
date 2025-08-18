@@ -84,7 +84,7 @@ I'm a full-stack developer passionate about **Data Analysis** and **Web Developm
   <img src="https://img.shields.io/badge/Email-feccae?style=for-the-badge&logo=gmail&logoColor=f7f5f5" />
 </a>
 <a href="https://www.youtube.com/@jin_ye.l">
-  <img src="https://img.shields.io/badge/YouTube%20Projects-e8c8ff?style=for-the-badge&logo=youtube&logoColor=white" />
+  <img src="https://img.shields.io/badge/YouTube-e8c8ff?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 <a href="https://github.com/yejinlee99">
   <img src="https://img.shields.io/badge/GitHub-b3f0f0?style=for-the-badge&logo=github&logoColor=white" />
