@@ -21,12 +21,10 @@ I'm a full-stack developer passionate about **Data Analysis** and **Web Developm
 데이터 분석과 웹 개발에 관심이 많은 풀스택 개발자입니다.  
 
 ## 🎓 **Learning Journey**
-**English**  
 - Bachelor’s degree in Data Science, Major in Data Technology  
 - Double Major in Clinical Medical Statistics  
 - Completed K-Digital Training Bootcamp: *AI Project & Full-stack Deep Learning-based Software Development (Global Standard Curriculum)*  
 
-**한국어**  
 - 데이터사이언스학부 데이터테크 전공  
 - 임상의학통계 복수전공  
 - K-Digital Training 부트캠프 수료: *AI 프로젝트 글로벌 표준 기반 풀스택 딥러닝 활용 SW 개발자 양성과정*  
