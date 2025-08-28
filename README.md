@@ -41,7 +41,6 @@ I'm a full-stack developer passionate about **Data Analysis** and **Web Developm
 - 🍷 Wine Recommender with ML Models  
 - 🤖 RAG Chatbot using Pinecone & LLM  
 
-#### **한국어 요약**  
 - 관심 분야: 머신러닝, 딥러닝, 데이터 시각화, 클라우드 배포, LLM 응용  
 - 프로젝트: 🍞 키오스크 무인 결제 | 🍷 와인 추천 | 🤖 LLM 기반 문서 검색 챗봇
 
