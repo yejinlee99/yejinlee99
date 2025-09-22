@@ -14,11 +14,11 @@
 
 ## 🧸 **Introduction**
 
-Hi, I'm **Yejin** 👋  
-I'm a full-stack developer passionate about **Data Analysis** and **Web Development**.  
+Hi, I'm **Yejin** 👋
+I'm a **developer-oriented data analyst** interested in data analysis and web development. 
 
 안녕하세요, 예진입니다 👋  
-데이터 분석과 웹 개발에 관심이 많은 풀스택 개발자입니다.  
+데이터 분석과 웹 개발에 관심이 많은 **개발형 데이터 분석가**입니다.
 
 ## 🎓 **Learning Journey**
 - Bachelor’s degree in Data Science, Major in Data Technology  
