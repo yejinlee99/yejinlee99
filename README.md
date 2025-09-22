@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=200&section=header&text=Yejinlee99's%20Github&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Yejinlee99's%20Github&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Puddles&size=50&pause=1000&color=FCB4FF&background=FFFBF700&width=1000&height=100&lines=Welcome!+++Yejin's+Github!)](https://git.io/typing-svg)
 
