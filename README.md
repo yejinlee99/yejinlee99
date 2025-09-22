@@ -4,16 +4,18 @@
 
 
 <div align="left">
-  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=yejinlee99&utm_content=farm">
-    <img src="https://render.gitanimals.org/farms/yejinlee99" style="height:200px; width:300px;" />
+  <a href="https://github.com/yejinlee99/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yejinlee99&layout=compact&hide_border=true" style="height:200px; width:300px;" />
   </a>
   <a href="https://github.com/yejinlee99/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=yejinlee99&show_icons=true&count_private=true&hide_border=true&title_color=f7f5f5&text_color=f7f5f5&icon_color=ffffff&bg_color=30,00c6ff,0072ff" style="height:200px; width:365px;" />
   </a>
-  <a href="https://github.com/yejinlee99/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yejinlee99&layout=compact&hide_border=true" style="height:200px; width:300px;" />
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=yejinlee99&utm_content=farm">
+    <img src="https://render.gitanimals.org/farms/yejinlee99" style="height:200px; width:300px;" />
   </a>
 </div>
+
+
 
 
 <p align="center">
