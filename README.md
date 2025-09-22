@@ -106,17 +106,12 @@
 
 Hi, I'm **Yejin**. <br> I'm a **developer-oriented data analyst** interested in data analysis and web development. 
 
-안녕하세요, 예진입니다 👋  
-데이터 분석과 웹 개발에 관심이 많은 **개발형 데이터 분석가**입니다.
 
 ## 🎓 **Learning Journey**
 - Bachelor’s degree in Data Science, Major in Data Technology  
 - Double Major in Clinical Medical Statistics  
 - Completed K-Digital Training Bootcamp: *AI Project & Full-stack Deep Learning-based Software Development (Global Standard Curriculum)*  
 
-- 데이터사이언스학부 데이터테크 전공
-- 임상의학통계 복수전공 
-- K-Digital Training 부트캠프 수료: *AI 프로젝트 글로벌 표준 기반 풀스택 딥러닝 활용 SW 개발자 양성과정*  
 
 ## 🔍 **Highlights**
 - Machine Learning & Deep Learning  
@@ -125,12 +120,10 @@ Hi, I'm **Yejin**. <br> I'm a **developer-oriented data analyst** interested in 
 - LLM Applications (Chatbots, RAG, Generative AI)  
 
 #### **Applied Projects**  
-- 🍞 Kiosk Payment System with Object Detection  
-- 🍷 Wine Recommender with ML Models  
-- 🤖 RAG Chatbot using Pinecone & LLM  
+- [🍞 Kiosk Payment System with Object Detection ](https://github.com/yejinlee99/DA36-final-BreadScanso-repo)  
+- [🍷 Wine Recommender with ML Models](https://github.com/yejinlee99/DA36_mini2_Dionysus)  
+- [🤖 RAG Chatbot using Pinecone & LLM](https://github.com/yejinlee99/DA36-mini4-SaemSungBot)
 
-- 관심 분야: 머신러닝, 딥러닝, 데이터 시각화, 클라우드 배포, LLM 응용  
-- 프로젝트: 🍞 키오스크 무인 결제 | 🍷 와인 추천 | 🤖 LLM 기반 문서 검색 챗봇
 
 ## 📫 **Contact Me**
 <p>
