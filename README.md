@@ -104,7 +104,7 @@
 
 ## 🧸 **Introduction**
 
-Hi, I'm **Yejin**. <br> I'm a **developer-oriented data analyst** interested in data analysis and web development. 
+Hi, I'm **Yejin**👋  <br> I'm a **developer-oriented data analyst** interested in data analysis and web development. 
 
 
 ## 🎓 **Learning Journey**
