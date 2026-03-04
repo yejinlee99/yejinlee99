@@ -4,9 +4,11 @@
 
 
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=yejinlee99&utm_content=farm">
-  <img src="https://render.gitanimals.org/farms/yejinlee99" style="height:200px; width:1500px;" />
-</a>
+<p align="center">
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=yejinlee99&utm_content=farm">
+    <img src="https://render.gitanimals.org/farms/yejinlee99" width="80%"/>
+  </a>
+</p>
 
 
 
@@ -23,24 +25,49 @@
 안녕하세요, 예진입니다 👋  
 <br>데이터 분석과 웹 개발에 관심이 많은 **개발형 데이터 분석가**입니다.
 <br>주로 데이터 분석을 하며 더 나아가 웹사이트 개발 공부를 하고 있습니다!
-
+<br><br>
 ## 🎓 **학습 여정**
 - 데이터사이언스학부 데이터테크 전공  
 - 임상의학통계 복수전공  
 - K-Digital Training 부트캠프 수료: *AI 프로젝트 글로벌 표준 기반 풀스택 딥러닝 활용 SW 개발자 양성과정*  
-
+<br><br>
 ## 🔍 **관심 분야 & 프로젝트**
 - 데이터 분석 (Data Analysis)
 - 빅 데이터 (Big Data)
 - AI (Artificial Intelligence)
 - 웹사이트 개발 (Web Development)
-
-### **프로젝트 경험**  
+<br><br>
+## 💻 **프로젝트 경험**  
 - [🍞 빵 스캐너 키오스크](https://github.com/yejinlee99/DA36-final-BreadScanso-repo)  
 - [🍷 와인 추천 시스템](https://github.com/yejinlee99/DA36_mini2_Dionysus)  
 - [🤖 RAG 기반 챗봇](https://github.com/yejinlee99/DA36-mini4-SaemSungBot)
-
-
+<br><br>
+## 🛠️**기술 스택**
+- 📊 **Data Analysis**
+  - Python
+  - Pandas
+  - NumPy
+  - Scikit-learn
+  - Matplotlib / Seaborn
+- 🤖 **AI / Machine Learning**
+  - Scikit-learn
+  - TensorFlow / Keras
+  - CNN (Image Classification)
+  - Recommendation System
+- 🌐 **Web Development**
+  - HTML
+  - CSS
+  - JavaScript
+  - Django
+  - Streamlit
+- 🗄️ **Database**
+  - MySQL
+  - SQLite
+- 🛠️ Tools
+  - Git / GitHub
+  - Jupyter Notebook
+  - VS Code
+<br><br>
 ## 📫 **연락처**
 <p>
   <a href="mailto:leeyejin991215@gmail.com">
@@ -81,7 +108,33 @@ Hi, I'm **Yejin**👋
 - [🍞 Kiosk Payment System with Object Detection ](https://github.com/yejinlee99/DA36-final-BreadScanso-repo)  
 - [🍷 Wine Recommender with ML Models](https://github.com/yejinlee99/DA36_mini2_Dionysus)  
 - [🤖 RAG Chatbot using Pinecone & LLM](https://github.com/yejinlee99/DA36-mini4-SaemSungBot)
-
+<br><br>
+## 🛠️**Tech Stack**
+- 📊 **Data Analysis**
+  - Python
+  - Pandas
+  - NumPy
+  - Scikit-learn
+  - Matplotlib / Seaborn
+- 🤖 **AI / Machine Learning**
+  - Scikit-learn
+  - TensorFlow / Keras
+  - CNN (Image Classification)
+  - Recommendation System
+- 🌐 **Web Development**
+  - HTML
+  - CSS
+  - JavaScript
+  - Django
+  - Streamlit
+- 🗄️ **Database**
+  - MySQL
+  - SQLite
+- 🛠️ Tools
+  - Git / GitHub
+  - Jupyter Notebook
+  - VS Code
+<br><br>
 
 ## 📫 **Contact Me**
 <p>
