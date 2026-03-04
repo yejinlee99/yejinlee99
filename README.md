@@ -114,68 +114,96 @@
 <br><br><br><br><br>
 
 <!-- 영어 섹션 -->
-## 🧸 **Introduction**
+## 👋 Hi, I'm Yejin
 
-Hi, I'm **Yejin**👋  
-<br>I'm a **developer-oriented data analyst** interested in data analysis and web development.
-<br>I primarily work in data analysis and am expanding my skills by studying web development.
+Developer-oriented **Data Analyst** interested in **Data Analysis, AI, and Web Development**.
+<br>
+I primarily work with data analysis and enjoy building data-driven solutions through machine learning models and web applications.
 
-
-## 🎓 **Learning Journey**
-- Bachelor’s degree in Data Science, Major in Data Technology  
-- Double Major in Clinical Medical Statistics  
-- Completed K-Digital Training Bootcamp: *AI Project & Full-stack Deep Learning-based Software Development (Global Standard Curriculum)*  
-
-
-## 🔍 **Highlights**
-- Data Analysis
-- Big Data
-- Artificial Intelligence (AI)
-- Web Development
-
-#### **Applied Projects**  
-- [🍞 Kiosk Payment System with Object Detection ](https://github.com/yejinlee99/DA36-final-BreadScanso-repo)  
-- [🍷 Wine Recommender with ML Models](https://github.com/yejinlee99/DA36_mini2_Dionysus)  
-- [🤖 RAG Chatbot using Pinecone & LLM](https://github.com/yejinlee99/DA36-mini4-SaemSungBot)
-<br><br>
-## 🛠️**Tech Stack**
-- 📊 **Data Analysis**
-  - Python
-  - Pandas
-  - NumPy
-  - Scikit-learn
-  - Matplotlib / Seaborn
-- 🤖 **AI / Machine Learning**
-  - Scikit-learn
-  - TensorFlow / Keras
-  - CNN (Image Classification)
-  - Recommendation System
-- 🌐 **Web Development**
-  - HTML
-  - CSS
-  - JavaScript
-  - Django
-  - Streamlit
-- 🗄️ **Database**
-  - MySQL
-  - SQLite
-- 🛠️ Tools
-  - Git / GitHub
-  - Jupyter Notebook
-  - VS Code
 <br><br>
 
-## 📫 **Contact Me**
-<p>
-  <a href="mailto:leeyejin991215@gmail.com">
-    <img src="https://img.shields.io/badge/Email-90e0ef?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.youtube.com/@jin_ye.l">
-    <img src="https://img.shields.io/badge/YouTube-0077b6?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a href="https://github.com/yejinlee99">
-    <img src="https://img.shields.io/badge/GitHub-03045e?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+## 💻 Projects
 
+### 🍞 **Bakery Scanner Kiosk**  
+Object detection-based self-checkout kiosk system for bakery products.
 
+- CNN-based image recognition for product detection  
+- Web-based kiosk interface for automated payment  
+
+### 🍷 **Wine Recommendation System**  
+Machine learning-based recommendation system that suggests wines based on food pairing.
+
+- Content-based filtering  
+- Item-based collaborative filtering  
+- Regression-based recommendation  
+
+### 🤖 **RAG Chatbot**
+
+LLM-based chatbot using vector search and retrieval-augmented generation.
+
+- Pinecone vector database  
+- Retrieval-based response generation  
+- Product information chatbot
+
+<br><br>
+
+## 🛠 Tech Stack
+
+### 📊 Data Analysis
+- Python  
+- Pandas  
+- NumPy  
+- Scikit-learn  
+- Matplotlib  
+- Seaborn  
+
+### 🤖 AI / Machine Learning
+- TensorFlow  
+- Keras  
+- CNN (Image Classification)  
+- Recommendation System  
+
+### 🌐 Web Development
+- HTML  
+- CSS  
+- JavaScript  
+- Django  
+- Streamlit  
+
+### 🗄 Database
+- MySQL  
+- SQLite  
+
+### 🛠 Tools
+- Git  
+- GitHub  
+- Jupyter Notebook  
+- VS Code  
+
+<br><br>
+
+## 🎓 Education
+
+- **B.S. in Data Science**  
+  Major in Data Technology  
+
+- **Double Major in Clinical Medical Statistics**
+
+- **K-Digital Training Bootcamp**  
+  AI Project & Full-stack Deep Learning-based Software Development
+
+<br><br>
+
+## 🔍 Interests
+
+- Data Analysis  
+- Big Data  
+- Artificial Intelligence  
+- Web Development  
+
+<br><br>
+
+## 📫 Contact
+
+- Email: leeyejin991215@gmail.com  
+- GitHub: https://github.com/yejinlee99
