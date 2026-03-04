@@ -21,6 +21,7 @@
 <br><br><br><br><br>
 
 <!-- 한국어 섹션 -->
+## 🇰🇷 한국어
 ## 👋 안녕하세요, 예진입니다
 
 데이터 분석, AI, 웹 개발에 관심이 있는 **개발형 데이터 분석가**입니다.
@@ -114,6 +115,7 @@
 <br><br><br><br><br>
 
 <!-- 영어 섹션 -->
+## 🇺🇸 English
 ## 👋 Hi, I'm Yejin
 
 Developer-oriented **Data Analyst** interested in **Data Analysis, AI, and Web Development**.
